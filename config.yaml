@@ -1,0 +1,5 @@
+plugins:
+  pdf: pdf
+  text: text
+  word: word
+v: 1
